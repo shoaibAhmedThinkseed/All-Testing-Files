@@ -1,0 +1,3 @@
+[console_scripts]
+crcengine=crcengine.__main__:main
+
